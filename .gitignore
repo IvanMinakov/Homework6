@@ -1,2 +1,6 @@
 bin
 obj 
+Task1.csproj
+Task2.csproj
+Task3.csproj
+.gitignore
